@@ -1,5 +1,5 @@
 
-let v = prompt("Inserisci un voto:")
+let v = prompt("Inserisci un voto:");
 
 if (v < 18) {
     console.log("Insufficiente");
