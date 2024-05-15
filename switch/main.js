@@ -29,4 +29,5 @@ switch (true) {
 
     default:
         console.log("Voto non valido");
+        break;
 }
